@@ -43,4 +43,4 @@ También permite a los usuarios comentar y puntuar las actividades y los eventos
 
 Orientada a todo tipo de usuarios: jóvenes, adultos, turistas, sin importar sus particularidades y que deseen realizar cualquier tipo de turismo, ya sea tradicional, cultural, gastronómico o simplemente que desean pasar un rato diferente, permitiéndoles recorrer y conocer los rincones más recónditos de aquellos lugares que visitan.
 
-**Esperamos sea de su agrado y para cualquier incidencia puede ponerse en contacto con los desarrolladores a través de los siguientes correos electrónicos: plasenciajohan@hotmail.com - avilbet@gmail.com**
+**Esperamos sea de su agrado y para cualquier incidencia puede ponerse en contacto con los desarrolladores a través de los siguientes correos electrónicos: avilbet@gmail.com - alu0101071039@ull.edu.es**
